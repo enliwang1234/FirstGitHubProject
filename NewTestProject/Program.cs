@@ -10,6 +10,7 @@ namespace NewTestProject
     {
         static void Main(string[] args)
         {
+            //test
             Console.WriteLine("abc");
         }
     }
