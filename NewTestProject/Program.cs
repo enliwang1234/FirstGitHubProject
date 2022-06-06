@@ -12,6 +12,7 @@ namespace NewTestProject
         {
             //test 123
             Console.WriteLine("abc");
+            Console.WriteLine("def");
         }
     }
 }
