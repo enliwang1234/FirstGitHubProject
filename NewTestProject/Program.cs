@@ -11,8 +11,8 @@ namespace NewTestProject
         static void Main(string[] args)
         {
             //test 123
-            Console.WriteLine("abc");
-            Console.WriteLine("def");
+            Console.WriteLine("a");
+            Console.WriteLine("b");
         }
     }
 }
